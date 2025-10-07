@@ -3,6 +3,11 @@
 ## Descrição do Projeto
 Este repositório contém o código de uma página web simples, desenvolvida para simular um jornal chamado "Transforme-se Times". O projeto foca no uso de HTML semântico e na demonstração de boas práticas de acessibilidade web.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtp)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:anajuliatoriani@gmail.com)
+
 A página apresenta uma estrutura de jornal com artigos, links de navegação e uma seção de artigos recomendados. O principal objetivo é ilustrar a criação de um layout web com código limpo e com foco na experiência do usuário, especialmente para aqueles que utilizam leitores de tela.
 
 ## Tecnologias Utilizadas
@@ -32,6 +37,11 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 ## Contato
 Conecte-se comigo no LinkedIn:
 [Ana Julia](https://www.linkedin.com/in/ajtp)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtp)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:anajuliatoriani@gmail.com)
 
 ## Licença
 Este projeto está sob a licença MIT.
